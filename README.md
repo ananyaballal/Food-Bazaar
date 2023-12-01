@@ -70,7 +70,7 @@ Food bank is a food review posting site developed in Django. Where user can Regi
 
 <h3>Post Details Page</h3>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/19981097/54107124-6e243200-4402-11e9-9f4c-20c1c83503e9.png" width="100%"</img> 
+    <img src="https://private-user-images.githubusercontent.com/149685593/287230283-7898f358-8a4c-4c36-a3a2-1cc614b891ef.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0MjYyMDAsIm5iZiI6MTcwMTQyNTkwMCwicGF0aCI6Ii8xNDk2ODU1OTMvMjg3MjMwMjgzLTc4OThmMzU4LThhNGMtNGMzNi1hM2EyLTFjYzYxNGI4OTFlZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwMVQxMDE4MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2E4MDdmOGRjMDQ3YWY1OGNiZjk3ZDFkNTZhNTU1YWU2ZTI1MGVlYjViZjdhMGVhMmQ5N2Y5Njk5M2I0OWRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gwh4np7HilPzSWT4Bvxl0Gt2bGQPZc8q9GSkPNtOzko" width="100%"</img> 
 </div>
 
 <h2>Author</h2>
