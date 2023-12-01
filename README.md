@@ -37,12 +37,12 @@ Food bank is a food review posting site developed in Django. Where user can Regi
 <h2>Project snapshot</h2>
 <h3>FoodBank Home Page</h3>
 <div align="center">
-    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/home.jpg" width="100%"</img> 
+    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/home.jpg" width="50%"</img> 
 </div>
 
 <h3>User Login Page</h3>
 <div align="center">
-    <img src=" " width="100%"</img> 
+    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/login.jpg" width="30%"</img> 
 </div>
 
 <h3>User Registration Page</h3>
@@ -57,12 +57,12 @@ Food bank is a food review posting site developed in Django. Where user can Regi
 
 <h3>Profile Page</h3>
 <div align="center">
-    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/profile.jpg " width="70%"</img> 
+    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/profile.jpg " width="50%"</img> 
 </div>
 
 <h3>Create Post Page</h3>
 <div align="center">
-    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/create-post.jpg" width="70%"</img> 
+    <img src="https://github.com/ananyaballal/Food-Bazaar/blob/main/create-post.jpg" width="50%"</img> 
 </div>
 
 <h2>Author</h2>
